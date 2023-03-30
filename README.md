@@ -28,7 +28,7 @@ void draw(){
 ```
 The size of oscilloscope is adapt to max value
 
-![basic example](assets/basic_example.png)
+![basic example](assets/basicExample.png)
 
 ## There is another wave forms?
 
