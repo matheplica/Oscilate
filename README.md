@@ -1,4 +1,4 @@
-#Oscilate
+# Oscilate
 
 ![skyFreqExample](assets/skyFreq.png)
 
@@ -59,7 +59,7 @@ osc.wave(0, 2.3); // change 0 to another number
 
 ### Helpers method
 
-- Adapt amplitude
+#### Adapt amplitude
 
 ![amplitude method](assets/amplitude.png)
 
@@ -68,7 +68,7 @@ osc.isaw(2.5);
 osc.amplitude(0.7); // from 0.0 to ... - 1 is normal
 ```
 
-- Cutoff value
+#### Cutoff value
 
 ![cutoff example](assets/cutoff.png)
 
@@ -77,7 +77,7 @@ osc.sqr(3.2);
 osc.cutoff(189); // value higher 231 now be 231
 ```
 
-- Fold wave on itself inspired from buchla synth
+#### Fold wave on itself inspired from buchla synth
 
 ![fold example](assets/fold.png)
 
