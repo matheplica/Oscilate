@@ -1,3 +1,7 @@
+#Oscilate
+
+![skyFreqExample](assets/skyFreq.png)
+
 ## Oscilate is a Wave user-friendly class for Processing
 - **easy to start and play**
   - made to be manipuled live and created easily
@@ -6,7 +10,6 @@
 - **for visuals or anything else**
   - wave folder method like buchla west-coast synth
   - switch between wave forms
-  - perfect to give an human touch to your composition 
   
 ## How does it works ?
 
