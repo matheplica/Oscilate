@@ -1,6 +1,6 @@
 # Oscilate
 
-![skyFreqExample](assets/skyFreq.png)
+<img src="assets/skyFreq.png" alt="skyFreqExample" style="width:540; height:300px"/>
 
 ## Oscilate is a Wave user-friendly class for Processing
 - **easy to start and play**
